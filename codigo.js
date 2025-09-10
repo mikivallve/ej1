@@ -1,6 +1,7 @@
 // js/main.js
 document.addEventListener('DOMContentLoaded', () => {
-  // 1) Menú móvil (hamburguesa)
+  // 1) Menú hamburguesa
+
   const hamburgerBtn = document.getElementById('hamburger-button');
   const mobileMenu = document.querySelector('.mobile-menu');
 
